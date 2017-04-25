@@ -180,6 +180,6 @@ ul.slick-dots .slick-active button { background: #1781ca; border: none; width: 1
 
 .ui-widget.ui-widget-content { background: #e9e9e9; border: none; border-radius: 5px; height: 10px; }
 
-.ui-slider .ui-slider-handle { position: absolute; margin-top: -5px; z-index: 2; width: 29px; height: 29px; cursor: pointer; border-radius: 50%; }
+.ui-slider .ui-slider-handle { position: absolute; margin-top: -10px; z-index: 2; width: 29px; height: 29px; cursor: pointer; border-radius: 50%; }
 
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active { border: 1px solid #d2d2d2; background: url(../img/range.png) -1px -1px no-repeat; font-weight: normal; color: #fff; outline: none; }
